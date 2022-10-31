@@ -1,5 +1,5 @@
 # Customer Database Android Plugin
-[![APK Download](.github/apk-badge.svg)](https://github.com/schorschii/customerdb-Android/releases)
+[![APK Download](.github/apk-badge.svg)](https://github.com/schorschii/CustomerDB-Android-Plugin/releases)
 
 The plugin app shows the name of a customer in the [Customer Database App for Android](https://github.com/schorschii/CustomerDB-Android) on incoming calls on devices without the Google Phone app.
 
