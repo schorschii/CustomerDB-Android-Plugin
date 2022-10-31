@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Customer Database Plugin</string>
+    <string name="app_description">The Customer Database Plugin app allows you to view the customer name on incoming calls.</string>
+    <string name="grant_permissions_text">Please give the app the appropriate permissions in order to work properly.</string>
+    <string name="grant_permission_phone_call_log">Grant Phone/Call Log Permission</string>
+    <string name="phone_call_log_already_granted">Phone/Call Log Permission already granted</string>
+    <string name="grant_permission_battery">Grant Run-in-Background Permission</string>
+    <string name="battery_already_granted">Run-in-Background Permission already granted</string>
+    <string name="customer_database">Customer Database</string>
+    <string name="disable_vendor_specific_battery_optimizations">Disable Vendor-Specific Battery Optimizations for This App</string>
+    <string name="no_vendor_specific_tool_found">No vendor specific battery optimization tool was found.</string>
+    <string name="no_need_for_action">No need for action</string>
+</resources>

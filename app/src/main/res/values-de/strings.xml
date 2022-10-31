@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kundendatenbank-Plugin</string>
+    <string name="app_description">Die Kundendatenbank-Plugin-App ermöglicht es den Kundennamen bei eingehenden Anrufen anzuzeigen.</string>
+    <string name="grant_permissions_text">Bitte geben Sie der App die entsprechenden Berechtigungen, damit die Anruferanzeige funktioniert.</string>
+    <string name="grant_permission_phone_call_log">Telefon/Anrufprotokoll-Berechtigung erteilen</string>
+    <string name="phone_call_log_already_granted">Telefon/Anrufprotokoll-Berechtigung bereits erteilt</string>
+    <string name="grant_permission_battery">Hintergrundaktivität-Berechtigung erteilen</string>
+    <string name="battery_already_granted">Hintergrundaktivität-Berechtigung bereits erteilt</string>
+    <string name="customer_database">Kundendatenbank</string>
+    <string name="disable_vendor_specific_battery_optimizations">Herstellerspezifische Batterie-Optimierungstools für diese App deaktivieren</string>
+    <string name="no_vendor_specific_tool_found">Es wurde kein Hersteller-spezifisches Batterieoptimierungstool gefunden.</string>
+    <string name="no_need_for_action">Kein Handlungsbedarf</string>
+</resources>
